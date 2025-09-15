@@ -1,0 +1,7 @@
+// Web Workers directory
+// Place background processing scripts here
+
+// Example workers:
+// - video-processor.worker.js
+// - file-handler.worker.js
+// - encoder.worker.js

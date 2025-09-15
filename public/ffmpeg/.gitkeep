@@ -1,0 +1,9 @@
+// FFmpeg related files directory
+// Place FFmpeg.wasm and related files here
+
+// Example files:
+// - ffmpeg-core.wasm
+// - ffmpeg-core.js
+// - ffmpeg.wasm
+// - presets/
+// - configurations/
